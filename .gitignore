@@ -1,3 +1,5 @@
 *.pyc
 *.bak
 .ipynb_checkpoints
+16-Regression 1/data/psam_p21.csv
+16-Regression 1/data/PUMS_Data_Dictionary_2018.pdf
